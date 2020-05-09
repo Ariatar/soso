@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/soso/precache-manifest.6076dd4b6d3bd5f3530734f14b99f21a.js"
+  "/soso/precache-manifest.ce228301000f0b6fb2320bf66436866d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mountain"});
